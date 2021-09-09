@@ -1,0 +1,1 @@
+## [https://jaeone94.github.io/node.js/node.js-sequelize(시퀄라이즈)를-사용해서-rdb와-통신하기](https://jaeone94.github.io/node.js/node.js-sequelize(%EC%8B%9C%ED%80%84%EB%9D%BC%EC%9D%B4%EC%A6%88)%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-RDB%EC%99%80-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0/)
